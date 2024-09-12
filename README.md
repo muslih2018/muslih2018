@@ -6,7 +6,7 @@
 <h3 align="left">🌐 &nbsp;Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/moh_sahmat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salim.mlana" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/muslih_sahmat-00a060222/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muh-salim-maulana-00a060222/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/muslih_sahmat-00a060222/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moh-muslih-sahmat-00a060222/" height="30" width="40" /></a>
 </p>
 
 <br>
