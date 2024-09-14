@@ -11,7 +11,7 @@
 
 <br>
 
-![Mus's GitHub stats](https://github-readme-stats.vercel.app/api?username=muslih2018&show_icons=true&theme=dracula)
+
 
 <br>
 
